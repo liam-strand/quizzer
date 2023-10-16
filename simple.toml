@@ -1,0 +1,11 @@
+name = "murder mystery"
+
+[[levels]]
+name = "Level 1"
+prompt = "enter the number 1"
+key = "1"
+
+[[levels]]
+name = "Level 2"
+prompt = "enter the number 2"
+key = "2"

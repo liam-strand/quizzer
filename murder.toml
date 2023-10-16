@@ -1,0 +1,102 @@
+name = """
+╔╦╗╦ ╦╔═╗  ╔═╗╔╦╗╦  ╦╔═╗╔╗╔╔╦╗╦ ╦╦═╗╔═╗  ╔╗ ╔═╗╔═╗╦╔╗╔╔═╗
+ ║ ╠═╣║╣   ╠═╣ ║║╚╗╔╝║╣ ║║║ ║ ║ ║╠╦╝║╣   ╠╩╗║╣ ║ ╦║║║║╚═╗
+ ╩ ╩ ╩╚═╝  ╩ ╩═╩╝ ╚╝ ╚═╝╝╚╝ ╩ ╚═╝╩╚═╚═╝  ╚═╝╚═╝╚═╝╩╝╚╝╚═╝
+"""
+
+[[levels]]
+name = "(1) Computation"
+prompt = """
+Many professors have nicknames, one of those nicknames is quite well-known.
+Apply the same nicknamification algorithm to the name of the programmer of the
+analytical engine.
+"""
+key = "Lda Aovelace"
+
+[[levels]]
+name = "(2) Mathematics and Movies"
+prompt = """
+One particular transformation is exceedingly useful in signal processing. In
+theory, the computation of this transformation can be greatly accelerated using
+a new technology that involves things that are very small. Who is the lead 
+actor in a spy film series where one of the film's titles begins with the name
+of this technology?
+"""
+key = "Daniel Craig"
+
+[[levels]]
+name = "(3) Pop Culture"
+prompt = """
+In the recent past, a student turned in an Algorithms quiz late. The professor,
+angry that the student submitted the quiz after answers were revealed, ripped
+up the quiz in front of the class. What is the first name of this professor.
+"""
+key = "Diane"
+
+[[levels]]
+name = "(4) Beverages"
+prompt = """
+Cisco Brewers is known for crafting delightful alchoholic beverages. What is
+the name of their seasonal sour beer?
+"""
+key = "Puckernuck"
+
+[[levels]]
+name = "(5) Herstory"
+prompt = """
+Who, famously, loves to talk about a certain animated television show where 
+famous people must go to high school? Provide their full legal name.
+"""
+key = "Skylar Ann Gilfeather"
+
+[[levels]]
+name = "(6) Terminator"
+prompt = """
+How do you close vim without saving?
+"""
+key = ":q!"
+
+[[levels]]
+name = "(7) The Green Knight"
+prompt = """
+The Green Knight, a perfect film for all ages and viewers, features a magical
+item of clothing. What power does this item confer to its wearer? (input letter)
+
+a: Strength
+b: Wisdom
+c: Protection
+d: Courage
+"""
+key = "c"
+
+[[levels]]
+name = "(8) The Journey Onwards"
+prompt = """
+In the chamber of a wizened sage,
+Where knowledge flows from age to age,
+Reside seven minds, wise and true,
+With mountain monarch's corr’dor view.
+
+Spies in fives, they venture out,
+In rhythm, they move, without a doubt.
+Hallucinations, of man and time,
+Play their chorus and weave their rhyme.
+
+A land of birds, a royal sight,
+Where peaches gleam in golden light.
+Where melodies and lessons lie,
+Find us there, I dare you: try. 
+
+---
+Enter "Done" to continute the adventure
+"""
+key = ""
+
+
+
+# [[levels]]
+# name = ""
+# prompt = """
+
+# """
+# key = ""
